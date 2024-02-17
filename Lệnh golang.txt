@@ -1,0 +1,4 @@
+cmd -> GoLand .
+
+go mod init namefile
+go mod tidy - import thư viện rsc.io/quote
